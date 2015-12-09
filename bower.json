@@ -19,6 +19,17 @@
             "role": "Developer"
         }
     ],
+  "ignore": [
+    "**/.*",
+    "Samples",
+    "all_samples.html",
+    "demo.html",
+    "previous_versions",
+    "*.md",
+    "sample.html",
+    "improvements_change_history",
+    "package.json"
+  ],
   "main": ["ChartNew.js"],
   "dependencies": {
   }
