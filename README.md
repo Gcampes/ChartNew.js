@@ -5,15 +5,16 @@ ChartNew.js
 Simple HTML5 Charts using the canvas element
 
 
+The below information is from the original lib page, this is not my lib, all the credits to (https://github.com/nnnick) 
 
 
-For my personal use, I had to integrate lot of changes into Chart.js (https://github.com/nnnick/Chart.js). 
+For my personal use, I had to integrate lot of changes into Chart.js (https://github.com/nnnick/Chart.js).
 
 So, I have re-worked Chart.js. Most of the changes are associated to requests in "GitHub" issues of Chart.js.
 
 Chart.js has been completely rewritten since ChartNew.js has been developed; Both code are now completely different. Most of the functionalities inserted in the new version of Chart.js are also available in ChartNew.js
 
-June 2014 - [Ole Kröger](http://github.com/Wikunia) is now a co-developer of the project. More ideas, more people to give support. Welcome to him. 
+June 2014 - [Ole Kröger](http://github.com/Wikunia) is now a co-developer of the project. More ideas, more people to give support. Welcome to him.
 
 
 
@@ -23,7 +24,7 @@ New Charts integrated in this version compared to Chart.js
 * HorizontalStackedBar
 * [Line,Bar with logarithmic y-Axis](../../wiki/100_110_Scale)
 * [BarLine (bar chart with an integrated line chart)](../../wiki/070_020_Bar#barline)
-	
+
 
 New Items in graph compared to Chart.js :
 
@@ -42,7 +43,7 @@ New Items in graph compared to Chart.js :
 * [colorFunctions](../../wiki/130_color_functions)
 * [mathFunctions](../../wiki/170_Math_functions)
 * [etc](https://github.com/FVANCOP/ChartNew.js/wiki)
-    
+
 
 A quick sample can be found on http://fvancop.github.io/ChartNew.js/
 
@@ -65,4 +66,3 @@ Using ChartNew.js, Omar Sedki has developed a graph generator. Though a user fri
 
 
 [http://charts.livegap.com/](http://charts.livegap.com/)
-
